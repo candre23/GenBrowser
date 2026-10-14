@@ -94,11 +94,11 @@ Use **Open folder** or **Ctrl+O** to browse directories. The **Settings** dropdo
 
 ## Project status
 
-Early source release. The application has been exercised on Ubuntu, but no automated GUI test suite or signed installers are provided. Updates are unlikely unless I happen to think of some feature I can't live without.
+Initial release. The application has been exercised on Ubuntu, but no automated GUI test suite or signed installers are provided. I consider it feature-complete for what I want it to do.  Updates are unlikely unless I happen to think of some functionality that I can't live without.
 
 
 
-### AI \& Safety Disclaimer
+## AI \& Safety Disclaimer
 
 The code and documentation included in this project is primarily vibeslop. The human writing this sentence in particular can barely code and doesn't really understand how any of this works. It Works On My Machine and hasn't caused my genitals to explode, but your mileage may vary. I make absolutely no guarantee as to the safety or security of the contents of this project. Use at your own risk. Or don't.
 
@@ -106,7 +106,7 @@ The code and documentation included in this project is primarily vibeslop. The h
 
 ## License
 
-GenBrowser is released into the public domain under the [Unlicense](https://unlicense.org/).   
+GenBrowser is released into the public domain under the [Unlicense](https://github.com/candre23/GenBrowser/blob/main/LICENSE).   
 
 Copyleft 2026   
 
